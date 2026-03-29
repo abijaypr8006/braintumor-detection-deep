@@ -1,0 +1,24 @@
+# Environments
+venv/
+.venv/
+env/
+mylibturbo/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Data and Models
+Training/
+Testing/
+model/
+output-samp/
+
+# Evaluation artifacts
+accuracy_loss.png
+confusion_matrix.png
+classification_report.txt
+
+# OS
+.DS_Store
+Thumbs.db
